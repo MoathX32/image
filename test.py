@@ -4,7 +4,7 @@ from io import BytesIO
 from PIL import Image
 
 # Backend API URL
-BACKEND_API_URL = "https://c807-2001-8f8-1d36-c1c0-a432-1928-8866-27a3.ngrok-free.app/generate-image/"
+BACKEND_API_URL = "https://31bd-2001-8f8-1db1-8b5-fdc3-7209-e4d9-8566.ngrok-free.app/generate-image/"
 
 # Streamlit app
 st.title("AI Image Generator")
